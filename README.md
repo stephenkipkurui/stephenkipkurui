@@ -7,7 +7,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=stephenkipkurui&theme=github_dark&show_icons=true&count_private=true)
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenkipkurui&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenkipkurui&layout=compact&theme=github_dark)
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/stephenkipkurui/langs)](https://githubtrends.io)
+
