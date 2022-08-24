@@ -30,8 +30,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stephenkipkurui&theme=github_dark&show_icons=true&count_private=true" alt="stephenkipkurui" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephenkipkurui&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="stephenkipkurui" /></p>
-
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephenkipkurui&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="stephenkipkurui" /></p>
+ -->
 <!-- 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=stephenkipkurui&theme=github_dark&show_icons=true&count_private=true) -->
 
