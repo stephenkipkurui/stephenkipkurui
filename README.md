@@ -17,6 +17,8 @@
 
 - 📄 Resume [View](https://www.canva.com/design/DAFHLCvZvPs/oI0GwKJtLKl_UyiHX0Zl9A/view?utm_content=DAFHLCvZvPs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
+- !portfolio.jpeg I’m currently working on [Natural Language Processing of Tweets using Twint API](https://github.com/stephenkipkurui/Kenya-Elections-Tweets-Sentiments)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/stephenkipkurui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephenkipkurui" height="30" width="40" /></a>
