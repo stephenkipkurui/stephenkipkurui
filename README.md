@@ -17,7 +17,7 @@
 
 - 📄 Resume [View](https://www.canva.com/design/DAFHLCvZvPs/oI0GwKJtLKl_UyiHX0Zl9A/view?utm_content=DAFHLCvZvPs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-- !portfolio.jpeg I’m currently working on [Natural Language Processing of Tweets using Twint API](https://github.com/stephenkipkurui/Kenya-Elections-Tweets-Sentiments)
+- 🔭 <img src="portfolio.jpeg"> Portfolio(https://alumni.codeup.com/students/1565)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
