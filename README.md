@@ -1,4 +1,4 @@
-# Hello, I am Stephen Kipkurui
+# Hello, I am Stephen.
 
 <hr>
 
@@ -8,3 +8,6 @@
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenkipkurui&layout=compact)
+
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
