@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Stephen!</h1>
-<h3 align="center">Thank you for visiting my page.. I am a passionate professional in anything data. My skills and experience can be characterized in well-known terms such as Data Scientist, Data Analyst, Business Intelligence Analyst, Machine Engineer, and (or) a times simply refered- an Analyst. I take pride in creating insight from data to be utilized in formulating business insight.</h3>
+<h3 align="left">Thank you for visiting my page.. I am a passionate professional in anything data. My skills and experience can be characterized in well-known terms such as Data Scientist, Data Analyst, Business Intelligence Analyst, Machine Engineer, and (or) a times simply refered- an Analyst. I take pride in creating insight from data to be utilized in formulating business insight.</h3>
 
 - 🔭 I’m currently working on [Natural Language Processing of Tweets using Twint API](https://github.com/stephenkipkurui/Kenya-Elections-Tweets-Sentiments)
 
