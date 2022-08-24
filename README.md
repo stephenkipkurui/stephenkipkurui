@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **Snowflake**
 
-- 📫 How to reach me **stephen.kipkurui12@gmail.com**
+- 📫 Email: **stephen.kipkurui12@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFHLCvZvPs/oI0GwKJtLKl_UyiHX0Zl9A/view?utm_content=DAFHLCvZvPs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFHLCvZvPs/oI0GwKJtLKl_UyiHX0Zl9A/view?utm_content=DAFHLCvZvPs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Resume [View](https://www.canva.com/design/DAFHLCvZvPs/oI0GwKJtLKl_UyiHX0Zl9A/view?utm_content=DAFHLCvZvPs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
